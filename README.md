@@ -1,2 +1,2 @@
 # paytm-clone
-This is the Landing page of Paytm and I have made it responsive for all devices in which the Paytm website doesn't had.
+This is the Landing page of Paytm. Which i have developed during my journey on web developemnt and this was the first website that i have built in my web developement field.
